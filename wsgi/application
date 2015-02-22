@@ -13,4 +13,4 @@ try:
 except IOError:
     pass
  
-from run import app as application
+from wurst import wurst as application
